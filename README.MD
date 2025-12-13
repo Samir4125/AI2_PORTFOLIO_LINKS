@@ -1,5 +1,4 @@
-Heet: https://heetdhaduk.github.io/My-Resume/
-Heet: 25UG036719 
+Heet: https://heetdhaduk.github.io/My-Resume/ <br>
 aryan: 25UG034549
 dhwani: https://dhwanimisha-codes.github.io/portfolio/
 Tirth <br>
@@ -11,8 +10,7 @@ Jeel' Link - https://jeelwdportfolio.netlify.app/ <br>
 chanchal:https://gleaming-travesseiro-4a4a82.netlify.app/ <br>
 Neelam <br>
 jaini: 25UG033129<br>
-Muskan: https://muskan1430.github.io/My-Portfolio/ <br>
-Heet: 25UG036719 <br>
+Muskan: https://muskan1430.github.io/My-Portfolio/ <br> <br>
 aryan: https://aryan04.netlify.app/
 <br>
 Daman:-https://damanbasotra.netlify.app/
