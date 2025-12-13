@@ -1,3 +1,6 @@
+Heet: https://heetdhaduk.github.io/My-Resume/
+Heet: 25UG036719 
+aryan: 25UG034549
 dhwani: https://dhwanimisha-codes.github.io/portfolio/
 Tirth <br>
 Khushal: 25Ug036560 <br>
