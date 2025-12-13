@@ -1,5 +1,6 @@
 Tirth
- Khushal: 25Ug036560
+Neelam
+Khushal: 25Ug036560
 Dharmi : file:///C:/Users/Lenovo/OneDrive/Documents/portfolio/MyResume-1.0.0/index.html
 Dev: 25Ug036876
 Mehul:mehul07.netlify.app 
