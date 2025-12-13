@@ -1,14 +1,14 @@
-Tirth
-Khushal: 25Ug036560
-Dharmi : file:///C:/Users/Lenovo/OneDrive/Documents/portfolio/MyResume-1.0.0/index.html
-Dev: 25Ug036876
-Mehul:mehul07.netlify.app 
-Jeel' Link - https://jeelwdportfolio.netlify.app/
-chanchal:https://gleaming-travesseiro-4a4a82.netlify.app/
-Neelam
-jaini: 25UG033129
-Muskan: https://muskan1430.github.io/My-Portfolio/
-Heet: 25UG036719 
+Tirth <br>
+Khushal: 25Ug036560 <br>
+Dharmi : file:///C:/Users/Lenovo/OneDrive/Documents/portfolio/MyResume-1.0.0/index.html <br>
+Dev: 25Ug036876 <br>
+Mehul:mehul07.netlify.app <br>
+Jeel' Link - https://jeelwdportfolio.netlify.app/ <br>
+chanchal:https://gleaming-travesseiro-4a4a82.netlify.app/ <br>
+Neelam <br>
+jaini: 25UG033129<br>
+Muskan: https://muskan1430.github.io/My-Portfolio/ <br>
+Heet: 25UG036719 <br>
 aryan: https://aryan04.netlify.app/
 <br>
 Daman:-https://damanbasotra.netlify.app/
