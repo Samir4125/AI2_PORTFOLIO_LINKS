@@ -9,6 +9,6 @@ Neelam
 jaini: 25UG033129
 Muskan: https://muskan1430.github.io/My-Portfolio/
 Heet: 25UG036719 
-aryan: 25UG034549
+aryan: https://aryan04.netlify.app/
 <br>
 Daman:-https://damanbasotra.netlify.app/
