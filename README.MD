@@ -1,3 +1,4 @@
+Mufaddal's Link - https://mufaddal53.netlify.app <br>
 Heet: https://heetdhaduk.github.io/My-Resume/ <br>
 aryan: 25UG034549
 dhwani: https://dhwanimisha-codes.github.io/portfolio/
