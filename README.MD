@@ -6,7 +6,7 @@ Tirth <br>
 Khushal: 25Ug036560 <br>
 Dharmi : file:///C:/Users/Lenovo/OneDrive/Documents/portfolio/MyResume-1.0.0/index.html <br>
 Dev: 25Ug036876 <br>
-Mehul:mehul07.netlify.app <br>
+Mehul:https://mehu2109.netlify.app/ <br>
 Jeel' Link - https://jeelwdportfolio.netlify.app/ <br>
 chanchal:https://gleaming-travesseiro-4a4a82.netlify.app/ <br>
 Neelam <br>
