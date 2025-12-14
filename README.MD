@@ -11,7 +11,7 @@ Jeel' Link - https://jeelwdportfolio.netlify.app/ <br>
 chanchal:https://gleaming-travesseiro-4a4a82.netlify.app/ <br>
 Neelam <br>
 jaini: 25UG033129<br>
-Muskan: https://muskan1430.github.io/My-Portfolio/ <br> <br>
+Muskan: https://muskan1430.github.io/My-Portfolio/ <br>
 aryan: https://aryan04.netlify.app/
 <br>
 Daman:-https://damanbasotra.netlify.app/
