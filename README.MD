@@ -2,7 +2,7 @@ Mufaddal's Link - https://mufaddal53.netlify.app <br>
 Heet: https://heetdhaduk.github.io/My-Resume/ <br>
 aryan: 25UG034549
 dhwani: https://dhwanimisha-codes.github.io/portfolio/
-Tirth <br>
+Tirth: https://tirth2007.github.io/Tirth-Sangani/index.html
 Khushal: 25Ug036560 <br>
 Dharmi : file:///C:/Users/Lenovo/OneDrive/Documents/portfolio/MyResume-1.0.0/index.html <br>
 Dev: 25Ug036876 <br>
