@@ -10,7 +10,7 @@ Mehul:https://mehu2109.netlify.app/ <br>
 Jeel' Link - https://jeelwdportfolio.netlify.app/ <br>
 chanchal:https://gleaming-travesseiro-4a4a82.netlify.app/ <br>
 Neelam <br>
-jaini: 25UG033129<br>
+Jaini: https://jainishah1307-cpu.github.io/Portfolio/<br>
 Muskan: https://muskan1430.github.io/My-Portfolio/ <br>
 aryan: https://aryan04.netlify.app/
 <br>
