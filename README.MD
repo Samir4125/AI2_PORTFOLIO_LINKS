@@ -1,6 +1,6 @@
  Khushal: (https://khushparkhiya747.github.io/khushalfolio/)
-Dharmi : file:///C:/Users/Lenovo/OneDrive/Documents/portfolio/MyResume-1.0.0/index.html
-Dev: 25Ug036876
+Dharmi : file:///C:/Users/Lenovo/OneDrive/Documents/portfolio/MyResume-1.0.0/index.html<br>
+Dev: https://dev-sphierson.github.io/Dev-Pandadiya/<br>
 Mehul:mehul07.netlify.app 
 Jeel' Link - https://jeelwdportfolio.netlify.app/
 chanchal:https://gleaming-travesseiro-4a4a82.netlify.app/
