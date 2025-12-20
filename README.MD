@@ -10,7 +10,7 @@ Dhwani: https://dhwanimisha-codes.github.io/portfolio/<br>
 Dev: https://dev-sphierson.github.io/Dev-Pandadiya/<br>
 Tirth: https://tirth2007.github.io/Tirth-Sangani/index.html<br>
 Mehul:https://mehu2109.netlify.app/ <br>
-Jeel' Link - https://jeelwdportfolio.netlify.app/ <br>
+Jeel: https://jeelwdportfolio.netlify.app/ <br>
 Neelam: https://neelamy9008-cyber.github.io/Portfolio/ <br>
 Jaini: https://jainishah1307-cpu.github.io/Portfolio/<br>
 Muskan: https://muskan1430.github.io/My-Portfolio/ <br>
