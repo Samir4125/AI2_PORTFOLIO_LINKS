@@ -2,8 +2,7 @@ Khushal: https://khushparkhiya747.github.io/khushalfolio/<br>
 Dharmi : file:///C:/Users/Lenovo/OneDrive/Documents/portfolio/MyResume-1.0.0/index.html<br>
 Mehul: https://mehul07.netlify.app <br>
 Jee: https://jeelwdportfolio.netlify.app/<br>
-Chanchal:https://gleaming-travesseiro-4a4a82.netlify.app/<br>
-Heet: 25UG036719 <br>
+Chanchal:https://gleaming-travesseiro-4a4a82.netlify.app/<br> <br>
 Mufaddal's Link - https://mufaddal53.netlify.app <br>
 Heet: https://heetdhaduk.github.io/My-Resume/ <br>
 Dhwani: https://dhwanimisha-codes.github.io/portfolio/<br>
